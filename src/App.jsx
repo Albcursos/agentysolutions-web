@@ -637,10 +637,10 @@ const handleNav = (sectionId) => {
                   <Phone size={16} />
                 </div>
                 <a
-                  href="tel:+34662280820"
+                  href="tel:+34691409903"
                   className="text-lg text-slate-600 hover:text-blue-600 transition-colors font-medium"
                 >
-                  +34 662 28 08 20
+                  +34 691 40 99 03
                 </a>
               </div>
             </div>
